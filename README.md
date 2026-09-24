@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jangamreddyprathyusha/leetcode/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/jangamreddyprathyusha/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jangamreddyprathyusha/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/jangamreddyprathyusha/leetcode/tree/master/0118-pascals-triangle) |
 ## Divide and Conquer
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jangamreddyprathyusha/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jangamreddyprathyusha/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/jangamreddyprathyusha/leetcode/tree/master/0118-pascals-triangle) |
 ## String
@@ -38,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jangamreddyprathyusha/leetcode/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/jangamreddyprathyusha/leetcode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/jangamreddyprathyusha/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/jangamreddyprathyusha/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
